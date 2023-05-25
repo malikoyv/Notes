@@ -1,0 +1,5 @@
+C:\Users\migga\Downloads\Notes\Notes\bin\Release\net6.0-windows\publish\Notes.exe
+C:\Users\migga\Downloads\Notes\Notes\bin\Release\net6.0-windows\publish\Notes.dll
+C:\Users\migga\Downloads\Notes\Notes\bin\Release\net6.0-windows\publish\Notes.deps.json
+C:\Users\migga\Downloads\Notes\Notes\bin\Release\net6.0-windows\publish\Notes.runtimeconfig.json
+C:\Users\migga\Downloads\Notes\Notes\bin\Release\net6.0-windows\publish\Notes.pdb
