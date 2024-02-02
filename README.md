@@ -2,9 +2,9 @@
 Welcome to Notes, your ultimate solution for organizing and managing your notes with ease! This project originated from the sheer necessity of streamlining note-taking processes within the academic realm, specifically tailored for Windows Forms.
 
 ## Features Galore
-**Intuitive Interface**: Navigate effortlessly through our sleek and user-friendly interface designed to optimize your note-taking experience.
-**Efficient Organization**: Categorize and manage your notes seamlessly, ensuring you never lose track of essential information again.
-**Customizable Formatting**: Adapt your notes to perfection with customizable formatting options, allowing you to express your ideas exactly how you envision them.
+**Intuitive Interface**: Navigate effortlessly through our sleek and user-friendly interface designed to optimize your note-taking experience.\
+**Efficient Organization**: Categorize and manage your notes seamlessly, ensuring you never lose track of essential information again.\
+**Customizable Formatting**: Adapt your notes to perfection with customizable formatting options, allowing you to express your ideas exactly how you envision them.\
 
 ## Get Started in 3 Simple Steps
 **1. Clone the Repository**
