@@ -9,7 +9,7 @@ Welcome to Notes, your ultimate solution for organizing and managing your notes 
 ## Get Started in 3 Simple Steps
 **1. Clone the Repository**\
 Clone the repository effortlessly using the following command:\
-git clone https://github.com/malikoyv/Notes.git \
+`git clone https://github.com/malikoyv/Notes.git` \
 **2. Installation Made Easy**\
 Head over to the "Setup" folder, click on setup.exe, and breeze through the installation steps hassle-free.\
 **3. Dive In!**\
